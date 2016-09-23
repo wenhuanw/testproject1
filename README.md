@@ -1,2 +1,3 @@
-# testProject1
-change in master branch
+
+# change again testProject1 MASTER CHANGE  expecting conflict
+
